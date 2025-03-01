@@ -1,6 +1,4 @@
-﻿using System.Buffers;
-
-namespace MathGame
+﻿namespace MathGame
 {
     internal class GameEngine
     {
